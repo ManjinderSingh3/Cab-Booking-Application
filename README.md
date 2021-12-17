@@ -1,12 +1,11 @@
 Group project for group14  
 
 <h3>Members:</h3>
-BIKRAMJIT SINGH   
-MANRAJ SINGH  
-MANJINDER SINGH  
-ARVINDER SINGH   
-DEVRAJ SINGH
-
+* MANJINDER SINGH 
+* DEVRAJ SINGH
+* BIKRAMJIT SINGH 
+* MANRAJ SINGH 
+* ARVINDER SINGH    
 
 Usage:
 After git cloning this project, perform this steps in command line:  
