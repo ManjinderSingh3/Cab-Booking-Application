@@ -1,6 +1,7 @@
-Group project for group14  
+# Group project for group14  
 
-<h3>Members:</h3>
+## Members:
+
 * MANJINDER SINGH 
 * DEVRAJ SINGH
 * BIKRAMJIT SINGH 
